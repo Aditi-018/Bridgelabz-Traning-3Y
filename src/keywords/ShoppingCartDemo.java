@@ -1,4 +1,4 @@
-package programing_practices;
+package keywords;
 
 // File name: ShoppingCartDemo.java
 
